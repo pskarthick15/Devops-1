@@ -1,1 +1,2 @@
 This is the program1 file experimenting with some of the git commands
+writing to create merge conflict.merge conflict is important point to be noted.
